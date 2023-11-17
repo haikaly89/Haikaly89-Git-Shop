@@ -21,7 +21,7 @@
       </div>
       <div>
         <h2>Big Burger</h2>
-        <p>Just a very big burger</p>
+        <p>Just a very big burger </p>
         <p>Price: $10</p>
         <button>Add to cart</button>
       </div>
